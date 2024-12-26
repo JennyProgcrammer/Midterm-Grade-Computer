@@ -1,4 +1,4 @@
-# 🎓 Midterm Grade Computer - C# Windows Forms Application
+# Midterm Grade Computer - C# Windows Forms Application
 
 ## 📜 Description
 This is a simple **Windows Forms** application designed to calculate and display midterm grades. It is built using **C#** and **.NET Framework**, offering a user-friendly interface to input and compute grades for a computer programming subjects. 🖥️
