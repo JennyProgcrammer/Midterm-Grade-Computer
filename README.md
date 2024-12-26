@@ -22,6 +22,8 @@ This is a simple **Windows Forms** application designed to calculate and display
 ![Login Page](images/login.jpg)
 
 *The login screen where users enter their credentials.*
+*Username: Jennymarinay03; Password: 12345678*
+
 
 ### 2. Login Success
 ![Login Success](images/login-success.jpg)
