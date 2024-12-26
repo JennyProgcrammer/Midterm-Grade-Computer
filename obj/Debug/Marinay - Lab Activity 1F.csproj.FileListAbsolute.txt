@@ -1,0 +1,11 @@
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\bin\Debug\Marinay - Lab Activity 1F.exe.config
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\bin\Debug\Marinay - Lab Activity 1F.exe
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\bin\Debug\Marinay - Lab Activity 1F.pdb
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\obj\Debug\Marinay - Lab Activity 1F.csproj.AssemblyReference.cache
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\obj\Debug\Marinay___Lab_Activity_1F.Form1.resources
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\obj\Debug\Marinay___Lab_Activity_1F.Form2.resources
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\obj\Debug\Marinay___Lab_Activity_1F.Properties.Resources.resources
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\obj\Debug\Marinay - Lab Activity 1F.csproj.GenerateResource.cache
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\obj\Debug\Marinay - Lab Activity 1F.csproj.CoreCompileInputs.cache
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\obj\Debug\Marinay - Lab Activity 1F.exe
+C:\Users\Joedy\Desktop\Com Prog\Marinay - Lab Activity 1F\Marinay - Lab Activity 1F\obj\Debug\Marinay - Lab Activity 1F.pdb
