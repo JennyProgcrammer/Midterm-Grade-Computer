@@ -21,3 +21,6 @@ Release/
 
 # Ignore user-specific settings
 *.config
+
+# macOS system files
+.DS_Store
