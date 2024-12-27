@@ -19,24 +19,24 @@ This is a simple **Windows Forms** application designed to calculate and display
 ## 📸 Screenshots
 
 ### 1. Login Page
-![Login Page](images/login.jpg)
+![Login Page](Midterm-Grade-Computer/images/login.jpg)
 
 *The login screen where users enter their credentials.*
 *Username: Jennymarinay03; Password: 12345678*
 
 
 ### 2. Login Success
-![Login Success](images/login-success.jpg)
+![Login Success](Midterm-Grade-Computer/images/login-success.jpg)
 
 *The page displayed after a successful login.*
 
 ### 3. Input Grades
-![Input Grades](images/input.jpg)
+![Input Grades](Midterm-Grade-Computer/images/input.jpg)
 
 *Main interface where users input grades for computer programming subjects.*
 
 ### 4. Output Grades
-![Output Grades](images/output.jpg)
+![Output Grades](Midterm-Grade-Computer/images/output.jpg)
 
 *The output screen displaying the final grades and pass/fail result.*
   
