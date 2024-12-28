@@ -64,3 +64,9 @@ Contributions are welcome! If you'd like to contribute:
 2. Create a new branch for your feature or bug fix:
    ```bash
    git checkout -b feature/YourFeatureName
+
+---
+
+## ⚖️ LICENSE
+MIT License
+Copyright © 2021 Jenny Marinay  
